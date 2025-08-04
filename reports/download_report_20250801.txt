@@ -1,0 +1,34 @@
+MAPILLARY STREET VIEW DOWNLOAD REPORT
+=====================================
+Generated: 2025-08-01 19:29:05.648121
+
+OVERALL SUMMARY
+---------------
+Total LSOAs processed: 20
+Successful LSOAs (>= 60 images): 20
+Failed LSOAs: 0
+Total images downloaded: 1600
+Average images per LSOA: 80
+
+BY IMD QUINTILE
+---------------
+Quintile 1: 320 images from 4 LSOAs (avg: 80, success rate: 100%)
+Quintile 2: 320 images from 4 LSOAs (avg: 80, success rate: 100%)
+Quintile 3: 320 images from 4 LSOAs (avg: 80, success rate: 100%)
+Quintile 4: 320 images from 4 LSOAs (avg: 80, success rate: 100%)
+Quintile 5: 320 images from 4 LSOAs (avg: 80, success rate: 100%)
+
+BY BOROUGH
+----------
+Islington: 320 images from 4 LSOAs (avg: 80)
+Lambeth: 240 images from 3 LSOAs (avg: 80)
+Greenwich: 160 images from 2 LSOAs (avg: 80)
+Wandsworth: 160 images from 2 LSOAs (avg: 80)
+Westminster: 160 images from 2 LSOAs (avg: 80)
+Camden: 80 images from 1 LSOAs (avg: 80)
+Hackney: 80 images from 1 LSOAs (avg: 80)
+Hammersmith and Fulham: 80 images from 1 LSOAs (avg: 80)
+Kensington and Chelsea: 80 images from 1 LSOAs (avg: 80)
+Lewisham: 80 images from 1 LSOAs (avg: 80)
+Southwark: 80 images from 1 LSOAs (avg: 80)
+Tower Hamlets: 80 images from 1 LSOAs (avg: 80)

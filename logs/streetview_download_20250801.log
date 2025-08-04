@@ -1,0 +1,279 @@
+INFO [2025-08-01 17:59:57] Starting street view download process
+INFO [2025-08-01 18:00:08] Loading selected LSOAs data
+INFO [2025-08-01 18:00:08] Loaded 20 LSOAs
+INFO [2025-08-01 18:09:37] Loading selected LSOAs data
+INFO [2025-08-01 18:09:37] Loaded 20 LSOAs
+INFO [2025-08-01 18:09:37] Loading LSOA boundaries from borough shapefiles
+INFO [2025-08-01 18:09:37] Need boundaries for 12 boroughs
+INFO [2025-08-01 18:09:37] Loading boundaries for Camden
+INFO [2025-08-01 18:09:37] Loading boundaries for Islington
+INFO [2025-08-01 18:09:37] Loading boundaries for Southwark
+INFO [2025-08-01 18:09:38] Loading boundaries for Wandsworth
+INFO [2025-08-01 18:09:38] Loading boundaries for Hackney
+INFO [2025-08-01 18:09:38] Loading boundaries for Lambeth
+INFO [2025-08-01 18:09:38] Loading boundaries for Lewisham
+INFO [2025-08-01 18:09:38] Loading boundaries for Greenwich
+INFO [2025-08-01 18:09:38] Loading boundaries for Tower Hamlets
+INFO [2025-08-01 18:09:38] Loading boundaries for Kensington and Chelsea
+INFO [2025-08-01 18:09:38] Loading boundaries for Westminster
+INFO [2025-08-01 18:09:38] Loading boundaries for Hammersmith and Fulham
+ERROR [2025-08-01 18:09:38] No LSOA boundaries could be loaded
+INFO [2025-08-01 18:11:03] Starting street view download process
+INFO [2025-08-01 18:11:03] Loading selected LSOAs data
+INFO [2025-08-01 18:11:03] Loaded 20 LSOAs
+INFO [2025-08-01 18:11:03] Loading LSOA boundaries from borough shapefiles
+INFO [2025-08-01 18:11:03] Need boundaries for 12 boroughs
+INFO [2025-08-01 18:11:03] Loading boundaries for Camden
+INFO [2025-08-01 18:11:03] Loading boundaries for Islington
+INFO [2025-08-01 18:11:03] Loading boundaries for Southwark
+INFO [2025-08-01 18:11:03] Loading boundaries for Wandsworth
+INFO [2025-08-01 18:11:03] Loading boundaries for Hackney
+INFO [2025-08-01 18:11:03] Loading boundaries for Lambeth
+INFO [2025-08-01 18:11:03] Loading boundaries for Lewisham
+INFO [2025-08-01 18:11:03] Loading boundaries for Greenwich
+INFO [2025-08-01 18:11:03] Loading boundaries for Tower Hamlets
+INFO [2025-08-01 18:11:03] Loading boundaries for Kensington and Chelsea
+INFO [2025-08-01 18:11:03] Loading boundaries for Westminster
+INFO [2025-08-01 18:11:03] Loading boundaries for Hammersmith and Fulham
+ERROR [2025-08-01 18:11:03] No LSOA boundaries could be loaded
+INFO [2025-08-01 18:20:38] Starting street view download process
+INFO [2025-08-01 18:20:49] Loading selected LSOAs data
+INFO [2025-08-01 18:20:49] Loaded 20 LSOAs
+INFO [2025-08-01 18:20:49] Loading LSOA boundaries from borough shapefiles
+INFO [2025-08-01 18:20:49] Need boundaries for 12 boroughs
+INFO [2025-08-01 18:20:49] Loading boundaries for Camden
+INFO [2025-08-01 18:20:49] Loading boundaries for Islington
+INFO [2025-08-01 18:20:49] Loading boundaries for Southwark
+INFO [2025-08-01 18:20:49] Loading boundaries for Wandsworth
+INFO [2025-08-01 18:20:49] Loading boundaries for Hackney
+INFO [2025-08-01 18:20:49] Loading boundaries for Lambeth
+INFO [2025-08-01 18:20:49] Loading boundaries for Lewisham
+INFO [2025-08-01 18:20:49] Loading boundaries for Greenwich
+INFO [2025-08-01 18:20:50] Loading boundaries for Tower Hamlets
+INFO [2025-08-01 18:20:50] Loading boundaries for Kensington and Chelsea
+INFO [2025-08-01 18:20:50] Loading boundaries for Westminster
+INFO [2025-08-01 18:20:50] Loading boundaries for Hammersmith and Fulham
+INFO [2025-08-01 18:20:50] Loaded boundaries for 20 LSOAs
+INFO [2025-08-01 18:20:50] Loaded boundaries for 20 LSOAs
+INFO [2025-08-01 18:21:36] Processing LSOA: E01000882 in Camden
+ERROR [2025-08-01 18:21:36] API request failed with status: 500
+INFO [2025-08-01 18:25:28] Starting street view download process
+INFO [2025-08-01 18:25:28] Loading selected LSOAs data
+INFO [2025-08-01 18:25:28] Loaded 20 LSOAs
+INFO [2025-08-01 18:25:28] Loading LSOA boundaries from borough shapefiles
+INFO [2025-08-01 18:25:28] Need boundaries for 12 boroughs
+INFO [2025-08-01 18:25:28] Loading boundaries for Camden
+INFO [2025-08-01 18:25:28] Loading boundaries for Islington
+INFO [2025-08-01 18:25:29] Loading boundaries for Southwark
+INFO [2025-08-01 18:25:29] Loading boundaries for Wandsworth
+INFO [2025-08-01 18:25:29] Loading boundaries for Hackney
+INFO [2025-08-01 18:25:29] Loading boundaries for Lambeth
+INFO [2025-08-01 18:25:29] Loading boundaries for Lewisham
+INFO [2025-08-01 18:25:29] Loading boundaries for Greenwich
+INFO [2025-08-01 18:25:29] Loading boundaries for Tower Hamlets
+INFO [2025-08-01 18:25:29] Loading boundaries for Kensington and Chelsea
+INFO [2025-08-01 18:25:29] Loading boundaries for Westminster
+INFO [2025-08-01 18:25:29] Loading boundaries for Hammersmith and Fulham
+INFO [2025-08-01 18:25:29] Loaded boundaries for 20 LSOAs
+INFO [2025-08-01 18:25:29] Loaded boundaries for 20 LSOAs
+INFO [2025-08-01 18:25:29] Processing LSOA: E01000882 in Camden
+ERROR [2025-08-01 18:25:29] API request failed with status: 500
+WARN [2025-08-01 18:25:29] No images found for LSOA: E01000882
+INFO [2025-08-01 18:25:29] Processing LSOA: E01002714 in Islington
+ERROR [2025-08-01 18:25:29] API request failed with status: 500
+WARN [2025-08-01 18:25:29] No images found for LSOA: E01002714
+INFO [2025-08-01 18:25:29] Processing LSOA: E01004073 in Southwark
+ERROR [2025-08-01 18:25:29] API request failed with status: 500
+WARN [2025-08-01 18:25:29] No images found for LSOA: E01004073
+INFO [2025-08-01 18:25:29] Processing LSOA: E01004553 in Wandsworth
+ERROR [2025-08-01 18:25:30] API request failed with status: 500
+WARN [2025-08-01 18:25:30] No images found for LSOA: E01004553
+INFO [2025-08-01 18:25:30] Processing LSOA: E01001718 in Hackney
+ERROR [2025-08-01 18:25:30] API request failed with status: 500
+WARN [2025-08-01 18:25:30] No images found for LSOA: E01001718
+INFO [2025-08-01 18:25:30] Processing LSOA: E01003134 in Lambeth
+ERROR [2025-08-01 18:25:30] API request failed with status: 500
+WARN [2025-08-01 18:25:30] No images found for LSOA: E01003134
+INFO [2025-08-01 18:25:30] Processing LSOA: E01003262 in Lewisham
+ERROR [2025-08-01 18:25:30] API request failed with status: 500
+WARN [2025-08-01 18:25:30] No images found for LSOA: E01003262
+INFO [2025-08-01 18:25:30] Processing LSOA: E01004519 in Wandsworth
+ERROR [2025-08-01 18:25:30] API request failed with status: 500
+WARN [2025-08-01 18:25:30] No images found for LSOA: E01004519
+INFO [2025-08-01 18:25:30] Processing LSOA: E01001646 in Greenwich
+ERROR [2025-08-01 18:25:30] API request failed with status: 500
+WARN [2025-08-01 18:25:30] No images found for LSOA: E01001646
+INFO [2025-08-01 18:25:30] Processing LSOA: E01002794 in Islington
+ERROR [2025-08-01 18:25:31] API request failed with status: 500
+WARN [2025-08-01 18:25:31] No images found for LSOA: E01002794
+INFO [2025-08-01 18:25:31] Processing LSOA: E01003182 in Lambeth
+ERROR [2025-08-01 18:25:31] API request failed with status: 500
+WARN [2025-08-01 18:25:31] No images found for LSOA: E01003182
+INFO [2025-08-01 18:25:31] Processing LSOA: E01004234 in Tower Hamlets
+ERROR [2025-08-01 18:25:31] API request failed with status: 500
+WARN [2025-08-01 18:25:31] No images found for LSOA: E01004234
+INFO [2025-08-01 18:25:31] Processing LSOA: E01001701 in Greenwich
+ERROR [2025-08-01 18:25:31] API request failed with status: 500
+WARN [2025-08-01 18:25:31] No images found for LSOA: E01001701
+INFO [2025-08-01 18:25:31] Processing LSOA: E01002729 in Islington
+ERROR [2025-08-01 18:25:31] API request failed with status: 500
+WARN [2025-08-01 18:25:31] No images found for LSOA: E01002729
+INFO [2025-08-01 18:25:31] Processing LSOA: E01002906 in Kensington and Chelsea
+ERROR [2025-08-01 18:25:32] API request failed with status: 500
+WARN [2025-08-01 18:25:32] No images found for LSOA: E01002906
+INFO [2025-08-01 18:25:32] Processing LSOA: E01004720 in Westminster
+ERROR [2025-08-01 18:25:32] API request failed with status: 500
+WARN [2025-08-01 18:25:32] No images found for LSOA: E01004720
+INFO [2025-08-01 18:25:32] Processing LSOA: E01001944 in Hammersmith and Fulham
+ERROR [2025-08-01 18:25:32] API request failed with status: 500
+WARN [2025-08-01 18:25:32] No images found for LSOA: E01001944
+INFO [2025-08-01 18:25:32] Processing LSOA: E01002732 in Islington
+ERROR [2025-08-01 18:25:32] API request failed with status: 500
+WARN [2025-08-01 18:25:32] No images found for LSOA: E01002732
+INFO [2025-08-01 18:25:32] Processing LSOA: E01003066 in Lambeth
+ERROR [2025-08-01 18:25:32] API request failed with status: 500
+WARN [2025-08-01 18:25:32] No images found for LSOA: E01003066
+INFO [2025-08-01 18:25:32] Processing LSOA: E01004757 in Westminster
+ERROR [2025-08-01 18:25:32] API request failed with status: 500
+WARN [2025-08-01 18:25:32] No images found for LSOA: E01004757
+INFO [2025-08-01 18:25:32] Saving metadata and generating reports
+INFO [2025-08-01 18:25:32] Saved image metadata to: /Users/yaxin/Library/CloudStorage/OneDrive-UniversityCollegeLondon/Attachments/004/methodology/Dissertation_v2/data/processed/streetview_metadata.csv
+INFO [2025-08-01 18:25:32] Saved download summary to: /Users/yaxin/Library/CloudStorage/OneDrive-UniversityCollegeLondon/Attachments/004/methodology/Dissertation_v2/data/processed/download_summary.csv
+INFO [2025-08-01 18:25:32] Saved download report to: /Users/yaxin/Library/CloudStorage/OneDrive-UniversityCollegeLondon/Attachments/004/methodology/Dissertation_v2/reports/download_report_20250801.txt
+INFO [2025-08-01 18:25:33] Download process completed successfully
+INFO [2025-08-01 18:31:47] Starting street view download process
+INFO [2025-08-01 18:31:47] Loading selected LSOAs data
+INFO [2025-08-01 18:31:47] Loaded 20 LSOAs
+INFO [2025-08-01 18:31:47] Loading LSOA boundaries from borough shapefiles
+INFO [2025-08-01 18:31:47] Need boundaries for 12 boroughs
+INFO [2025-08-01 18:31:47] Loading boundaries for Camden
+INFO [2025-08-01 18:31:47] Loading boundaries for Islington
+INFO [2025-08-01 18:31:47] Loading boundaries for Southwark
+INFO [2025-08-01 18:31:47] Loading boundaries for Wandsworth
+INFO [2025-08-01 18:31:47] Loading boundaries for Hackney
+INFO [2025-08-01 18:31:47] Loading boundaries for Lambeth
+INFO [2025-08-01 18:31:47] Loading boundaries for Lewisham
+INFO [2025-08-01 18:31:47] Loading boundaries for Greenwich
+INFO [2025-08-01 18:31:47] Loading boundaries for Tower Hamlets
+INFO [2025-08-01 18:31:47] Loading boundaries for Kensington and Chelsea
+INFO [2025-08-01 18:31:47] Loading boundaries for Westminster
+INFO [2025-08-01 18:31:47] Loading boundaries for Hammersmith and Fulham
+INFO [2025-08-01 18:31:47] Loaded boundaries for 20 LSOAs
+INFO [2025-08-01 18:31:47] Loaded boundaries for 20 LSOAs
+INFO [2025-08-01 18:31:47] Processing LSOA: E01000882 in Camden
+INFO [2025-08-01 18:36:31] Starting street view download process
+INFO [2025-08-01 18:36:31] Loading selected LSOAs data
+INFO [2025-08-01 18:36:31] Loaded 20 LSOAs
+INFO [2025-08-01 18:36:31] Loading LSOA boundaries from borough shapefiles
+INFO [2025-08-01 18:36:31] Need boundaries for 12 boroughs
+INFO [2025-08-01 18:36:31] Loading boundaries for Camden
+INFO [2025-08-01 18:36:31] Loading boundaries for Islington
+INFO [2025-08-01 18:36:31] Loading boundaries for Southwark
+INFO [2025-08-01 18:36:31] Loading boundaries for Wandsworth
+INFO [2025-08-01 18:36:31] Loading boundaries for Hackney
+INFO [2025-08-01 18:36:31] Loading boundaries for Lambeth
+INFO [2025-08-01 18:36:31] Loading boundaries for Lewisham
+INFO [2025-08-01 18:36:31] Loading boundaries for Greenwich
+INFO [2025-08-01 18:36:31] Loading boundaries for Tower Hamlets
+INFO [2025-08-01 18:36:31] Loading boundaries for Kensington and Chelsea
+INFO [2025-08-01 18:36:31] Loading boundaries for Westminster
+INFO [2025-08-01 18:36:31] Loading boundaries for Hammersmith and Fulham
+INFO [2025-08-01 18:36:31] Loaded boundaries for 20 LSOAs
+INFO [2025-08-01 18:36:31] Loaded boundaries for 20 LSOAs
+INFO [2025-08-01 18:36:32] Processing LSOA: E01000882 in Camden
+WARN [2025-08-01 18:36:33] No images found for LSOA: E01000882
+INFO [2025-08-01 18:36:33] Processing LSOA: E01002714 in Islington
+INFO [2025-08-01 18:36:42] Found 356 images for LSOA: E01002714
+INFO [2025-08-01 18:36:42] After quality filtering: 0 images
+WARN [2025-08-01 18:36:42] Insufficient images after filtering for LSOA: E01002714
+INFO [2025-08-01 18:36:42] Selected 0 images for download
+ERROR [2025-08-01 18:36:42] Failed to get image URL for ID: NA
+WARN [2025-08-01 18:36:42] Failed to download image: NA
+INFO [2025-08-01 18:48:55] Starting street view download process
+INFO [2025-08-01 18:48:55] Loading selected LSOAs data
+INFO [2025-08-01 18:48:55] Loaded 20 LSOAs
+INFO [2025-08-01 18:48:55] Processing LSOA: E01000882 in Camden
+INFO [2025-08-01 18:48:57] Found 334 images for LSOA: E01000882
+INFO [2025-08-01 18:48:57] Selected 80 images for download
+INFO [2025-08-01 18:50:47] Downloaded 80 images for LSOA: E01000882
+INFO [2025-08-01 18:50:47] Processing LSOA: E01002714 in Islington
+INFO [2025-08-01 18:50:50] Found 500 images for LSOA: E01002714
+INFO [2025-08-01 18:50:50] Selected 80 images for download
+INFO [2025-08-01 18:53:05] Downloaded 80 images for LSOA: E01002714
+INFO [2025-08-01 18:53:05] Processing LSOA: E01004073 in Southwark
+INFO [2025-08-01 18:53:10] Found 193 images for LSOA: E01004073
+INFO [2025-08-01 18:53:10] Selected 80 images for download
+INFO [2025-08-01 18:55:03] Downloaded 80 images for LSOA: E01004073
+INFO [2025-08-01 18:55:03] Processing LSOA: E01004553 in Wandsworth
+INFO [2025-08-01 18:55:13] Found 500 images for LSOA: E01004553
+INFO [2025-08-01 18:55:13] Selected 80 images for download
+INFO [2025-08-01 18:56:49] Downloaded 80 images for LSOA: E01004553
+INFO [2025-08-01 18:56:49] Processing LSOA: E01001718 in Hackney
+INFO [2025-08-01 18:56:58] Found 500 images for LSOA: E01001718
+INFO [2025-08-01 18:56:58] Selected 80 images for download
+INFO [2025-08-01 18:59:00] Downloaded 80 images for LSOA: E01001718
+INFO [2025-08-01 18:59:00] Processing LSOA: E01003134 in Lambeth
+INFO [2025-08-01 18:59:03] Found 117 images for LSOA: E01003134
+INFO [2025-08-01 18:59:03] Selected 80 images for download
+INFO [2025-08-01 19:00:46] Downloaded 80 images for LSOA: E01003134
+INFO [2025-08-01 19:00:46] Processing LSOA: E01003262 in Lewisham
+INFO [2025-08-01 19:00:49] Found 117 images for LSOA: E01003262
+INFO [2025-08-01 19:00:49] Selected 80 images for download
+INFO [2025-08-01 19:03:01] Downloaded 80 images for LSOA: E01003262
+INFO [2025-08-01 19:03:01] Processing LSOA: E01004519 in Wandsworth
+INFO [2025-08-01 19:03:10] Found 500 images for LSOA: E01004519
+INFO [2025-08-01 19:03:10] Selected 80 images for download
+INFO [2025-08-01 19:05:43] Downloaded 80 images for LSOA: E01004519
+INFO [2025-08-01 19:05:43] Processing LSOA: E01001646 in Greenwich
+INFO [2025-08-01 19:05:50] Found 425 images for LSOA: E01001646
+INFO [2025-08-01 19:05:50] Selected 80 images for download
+INFO [2025-08-01 19:08:07] Downloaded 80 images for LSOA: E01001646
+INFO [2025-08-01 19:08:07] Processing LSOA: E01002794 in Islington
+INFO [2025-08-01 19:08:18] Found 500 images for LSOA: E01002794
+INFO [2025-08-01 19:08:18] Selected 80 images for download
+INFO [2025-08-01 19:09:49] Downloaded 80 images for LSOA: E01002794
+INFO [2025-08-01 19:09:49] Processing LSOA: E01003182 in Lambeth
+INFO [2025-08-01 19:09:52] Found 176 images for LSOA: E01003182
+INFO [2025-08-01 19:09:52] Selected 80 images for download
+INFO [2025-08-01 19:11:35] Downloaded 80 images for LSOA: E01003182
+INFO [2025-08-01 19:11:35] Processing LSOA: E01004234 in Tower Hamlets
+INFO [2025-08-01 19:11:45] Found 500 images for LSOA: E01004234
+INFO [2025-08-01 19:11:46] Selected 80 images for download
+INFO [2025-08-01 19:13:27] Downloaded 80 images for LSOA: E01004234
+INFO [2025-08-01 19:13:27] Processing LSOA: E01001701 in Greenwich
+INFO [2025-08-01 19:13:38] Found 500 images for LSOA: E01001701
+INFO [2025-08-01 19:13:38] Selected 80 images for download
+INFO [2025-08-01 19:15:07] Downloaded 80 images for LSOA: E01001701
+INFO [2025-08-01 19:15:07] Processing LSOA: E01002729 in Islington
+INFO [2025-08-01 19:15:16] Found 500 images for LSOA: E01002729
+INFO [2025-08-01 19:15:16] Selected 80 images for download
+INFO [2025-08-01 19:16:48] Downloaded 80 images for LSOA: E01002729
+INFO [2025-08-01 19:16:48] Processing LSOA: E01002906 in Kensington and Chelsea
+INFO [2025-08-01 19:16:52] Found 187 images for LSOA: E01002906
+INFO [2025-08-01 19:16:52] Selected 80 images for download
+INFO [2025-08-01 19:18:18] Downloaded 80 images for LSOA: E01002906
+INFO [2025-08-01 19:18:18] Processing LSOA: E01004720 in Westminster
+INFO [2025-08-01 19:18:23] Found 262 images for LSOA: E01004720
+INFO [2025-08-01 19:18:23] Selected 80 images for download
+INFO [2025-08-01 19:22:39] Downloaded 80 images for LSOA: E01004720
+INFO [2025-08-01 19:22:39] Processing LSOA: E01001944 in Hammersmith and Fulham
+INFO [2025-08-01 19:22:49] Found 500 images for LSOA: E01001944
+INFO [2025-08-01 19:22:49] Selected 80 images for download
+INFO [2025-08-01 19:24:15] Downloaded 80 images for LSOA: E01001944
+INFO [2025-08-01 19:24:15] Processing LSOA: E01002732 in Islington
+INFO [2025-08-01 19:24:24] Found 500 images for LSOA: E01002732
+INFO [2025-08-01 19:24:24] Selected 80 images for download
+INFO [2025-08-01 19:25:56] Downloaded 80 images for LSOA: E01002732
+INFO [2025-08-01 19:25:56] Processing LSOA: E01003066 in Lambeth
+INFO [2025-08-01 19:26:00] Found 216 images for LSOA: E01003066
+INFO [2025-08-01 19:26:00] Selected 80 images for download
+INFO [2025-08-01 19:27:29] Downloaded 80 images for LSOA: E01003066
+INFO [2025-08-01 19:27:29] Processing LSOA: E01004757 in Westminster
+INFO [2025-08-01 19:27:40] Found 500 images for LSOA: E01004757
+INFO [2025-08-01 19:27:40] Selected 80 images for download
+INFO [2025-08-01 19:29:05] Downloaded 80 images for LSOA: E01004757
+INFO [2025-08-01 19:29:05] Saving metadata and generating reports
+INFO [2025-08-01 19:29:05] Saved image metadata to: /Users/yaxin/Library/CloudStorage/OneDrive-UniversityCollegeLondon/Attachments/004/methodology/Dissertation_v2/data/processed/streetview_metadata.csv
+INFO [2025-08-01 19:29:05] Saved download summary to: /Users/yaxin/Library/CloudStorage/OneDrive-UniversityCollegeLondon/Attachments/004/methodology/Dissertation_v2/data/processed/download_summary.csv
+INFO [2025-08-01 19:29:05] Saved download report to: /Users/yaxin/Library/CloudStorage/OneDrive-UniversityCollegeLondon/Attachments/004/methodology/Dissertation_v2/reports/download_report_20250801.txt
+INFO [2025-08-01 19:29:06] Download process completed successfully

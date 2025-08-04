@@ -1,0 +1,21 @@
+lsoa_code,borough,imd_quintile,images_available,images_selected,images_downloaded,status
+E01000882,Camden,1,334,80,80,success
+E01002714,Islington,1,500,80,80,success
+E01004073,Southwark,1,193,80,80,success
+E01004553,Wandsworth,1,500,80,80,success
+E01001718,Hackney,2,500,80,80,success
+E01003134,Lambeth,2,117,80,80,success
+E01003262,Lewisham,2,117,80,80,success
+E01004519,Wandsworth,2,500,80,80,success
+E01001646,Greenwich,3,425,80,80,success
+E01002794,Islington,3,500,80,80,success
+E01003182,Lambeth,3,176,80,80,success
+E01004234,Tower Hamlets,3,500,80,80,success
+E01001701,Greenwich,4,500,80,80,success
+E01002729,Islington,4,500,80,80,success
+E01002906,Kensington and Chelsea,4,187,80,80,success
+E01004720,Westminster,4,262,80,80,success
+E01001944,Hammersmith and Fulham,5,500,80,80,success
+E01002732,Islington,5,500,80,80,success
+E01003066,Lambeth,5,216,80,80,success
+E01004757,Westminster,5,500,80,80,success

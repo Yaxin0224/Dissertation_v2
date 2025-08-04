@@ -1,0 +1,61 @@
+City Look Dissertation - LSOA Selection Report
+生成时间: 1754062228 
+=====================================
+
+1. 总体统计
+   - Inner London LSOA总数: 1731 
+   - 有边界数据的LSOA数: 1633 
+   - 选中LSOA数: 20 
+   - 覆盖Borough数: 12 
+
+2. IMD五分位分布
+# A tibble: 5 × 3
+  inner_imd_quintile deprivation_category                n
+               <int> <chr>                           <int>
+1                  1 1_Least Deprived (Inner London)     4
+2                  2 2_Less Deprived (Inner London)      4
+3                  3 3_Average (Inner London)            4
+4                  4 4_More Deprived (Inner London)      4
+5                  5 5_Most Deprived (Inner London)      4
+
+3. Borough分布
+# A tibble: 12 × 6
+   borough                  `1`   `3`   `4`   `2`   `5`
+   <chr>                  <int> <int> <int> <int> <int>
+ 1 Camden                     1     0     0     0     0
+ 2 Greenwich                  0     1     1     0     0
+ 3 Hackney                    0     0     0     1     0
+ 4 Hammersmith and Fulham     0     0     0     0     1
+ 5 Islington                  1     1     1     0     1
+ 6 Kensington and Chelsea     0     0     1     0     0
+ 7 Lambeth                    0     1     0     1     1
+ 8 Lewisham                   0     0     0     1     0
+ 9 Southwark                  1     0     0     0     0
+10 Tower Hamlets              0     1     0     0     0
+11 Wandsworth                 1     0     0     1     0
+12 Westminster                0     0     1     0     1
+
+4. 选中的LSOA列表
+# A tibble: 20 × 5
+   selection_id lsoa_code borough                deprivation_category            imd_score
+          <int> <chr>     <chr>                  <chr>                               <dbl>
+ 1            1 E01000882 Camden                 1_Least Deprived (Inner London)      4.32
+ 2            2 E01002714 Islington              1_Least Deprived (Inner London)     14.0 
+ 3            3 E01004073 Southwark              1_Least Deprived (Inner London)      8.56
+ 4            4 E01004553 Wandsworth             1_Least Deprived (Inner London)     11.3 
+ 5            5 E01001718 Hackney                2_Less Deprived (Inner London)      20.1 
+ 6            6 E01003134 Lambeth                2_Less Deprived (Inner London)      19.6 
+ 7            7 E01003262 Lewisham               2_Less Deprived (Inner London)      19.1 
+ 8            8 E01004519 Wandsworth             2_Less Deprived (Inner London)      16.6 
+ 9            9 E01001646 Greenwich              3_Average (Inner London)            25.0 
+10           10 E01002794 Islington              3_Average (Inner London)            22.2 
+11           11 E01003182 Lambeth                3_Average (Inner London)            26.6 
+12           12 E01004234 Tower Hamlets          3_Average (Inner London)            24.2 
+13           13 E01001701 Greenwich              4_More Deprived (Inner London)      29.4 
+14           14 E01002729 Islington              4_More Deprived (Inner London)      31.0 
+15           15 E01002906 Kensington and Chelsea 4_More Deprived (Inner London)      33.0 
+16           16 E01004720 Westminster            4_More Deprived (Inner London)      32.0 
+17           17 E01001944 Hammersmith and Fulham 5_Most Deprived (Inner London)      43.0 
+18           18 E01002732 Islington              5_Most Deprived (Inner London)      47.1 
+19           19 E01003066 Lambeth                5_Most Deprived (Inner London)      37.4 
+20           20 E01004757 Westminster            5_Most Deprived (Inner London)      40.5 
