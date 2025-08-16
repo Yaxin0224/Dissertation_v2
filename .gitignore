@@ -1,4 +1,13 @@
-.Rproj.user
+# R / project
 .Rhistory
 .RData
+.Rproj.user/
 .Ruserdata
+# OS / IDE
+.DS_Store
+__pycache__/
+*.pyc
+# Virtual env
+.venv/
+# OneDrive temp metadata (if present)
+~$*
