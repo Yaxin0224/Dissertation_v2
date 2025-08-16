@@ -1,0 +1,5 @@
+Model,Global_R2,AIC,Morans_I_Residuals,Key_Finding
+OLS,0.0070370571403982705,12992.592372529278,0.5123965774584777,Negative GVI~IMD relation; spatial autocorrelation in residuals
+Spatial Lag (SAR),0.4262626310294816,12032.877277398034,0.008562105978272179,Captures spatial spillovers; residual autocorrelation reduced
+GWR,0.31722261929579126,12357.805212492665,NA,Relationship varies in space (heterogeneity)
+Multilevel (Random slopes),0.0066284192332694905,12882.203977225805,NA,Borough-level heterogeneity; random slopes improve fit

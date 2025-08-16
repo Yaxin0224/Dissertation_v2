@@ -1,0 +1,2 @@
+lsoa_code,n_images,mean_gvi,median_gvi,std_gvi,min_gvi,max_gvi,q25_gvi,q75_gvi,processing_time,timestamp,borough,imd_score,imd_quintile
+E01004712,100,6.12445068359375,1.6845703125,8.881905555725098,0.0,35.968017578125,0.06866455078125,8.81500244140625,29.39431142807007,2025-08-09T20:17:20.976665,Westminster,11.061,Q1_Least

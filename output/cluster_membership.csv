@@ -1,0 +1,21 @@
+lsoa_code,lsoa_name,borough,cluster,cluster_name,mean_gvi,imd_score,inner_imd_quintile
+E01003066,Lambeth 028B,Lambeth,1,Low GVI Cluster,20.34073416392009,37.398,5
+E01001646,Greenwich 019A,Greenwich,1,Low GVI Cluster,19.582526524861652,25.032,3
+E01004757,Westminster 010C,Westminster,1,Low GVI Cluster,19.34174732784931,40.501,5
+E01001701,Greenwich 015C,Greenwich,1,Low GVI Cluster,18.776863000275256,29.43,4
+E01002732,Islington 005A,Islington,1,Low GVI Cluster,16.688647429148357,47.055,5
+E01003182,Lambeth 009D,Lambeth,1,Low GVI Cluster,14.021080706278482,26.612,3
+E01000882,Camden 008B,Camden,1,Low GVI Cluster,13.51703151067098,4.319,1
+E01002714,Islington 017D,Islington,1,Low GVI Cluster,12.881843513912624,14.035,1
+E01002794,Islington 020B,Islington,1,Low GVI Cluster,12.082870776173811,22.216,3
+E01001944,Hammersmith and Fulham 004B,Hammersmith and Fulham,1,Low GVI Cluster,11.020136192712858,43.021,5
+E01001718,Hackney 007D,Hackney,1,Low GVI Cluster,10.095750013987224,20.149,2
+E01002729,Islington 021E,Islington,1,Low GVI Cluster,8.880723334231822,31.027,4
+E01004720,Westminster 004C,Westminster,1,Low GVI Cluster,8.605509440104166,32.043,4
+E01004519,Wandsworth 036C,Wandsworth,1,Low GVI Cluster,6.020015716552734,16.635,2
+E01003134,Lambeth 027D,Lambeth,2,High GVI Cluster,46.63836987577839,19.56,2
+E01003262,Lewisham 021E,Lewisham,2,High GVI Cluster,35.226305972911696,19.131,2
+E01004234,Tower Hamlets 003E,Tower Hamlets,2,High GVI Cluster,29.27602485162241,24.249,3
+E01004073,Southwark 031C,Southwark,2,High GVI Cluster,28.88630020904541,8.556,1
+E01004553,Wandsworth 015A,Wandsworth,2,High GVI Cluster,28.69899366920377,11.274,1
+E01002906,Kensington and Chelsea 002C,Kensington and Chelsea,2,High GVI Cluster,27.78206729888916,33.044,4

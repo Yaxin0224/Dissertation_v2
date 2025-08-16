@@ -1,0 +1,20 @@
+term,estimate,std.error,statistic,p.value
+(Intercept),39.363,1.9606,20.0772,0
+imd_score,-0.0663,0.0664,-0.9987,0.3181
+population_density,-4e-4,1e-4,-4.0862,0
+ptal_score,-1.3788,0.3922,-3.5153,5e-4
+building_density,-0.2435,0.0273,-8.9237,0
+road_density_km_per_sqkm,-0.0256,0.0254,-1.0083,0.3134
+boroughGreenwich,-9.5062,1.1475,-8.2846,0
+boroughHackney,-3.0177,1.1331,-2.6631,0.0078
+boroughHammersmith and Fulham,-4.6502,1.1646,-3.9931,1e-4
+boroughIslington,-0.5184,1.1341,-0.4572,0.6476
+boroughKensington and Chelsea,-4.1655,1.1912,-3.4969,5e-4
+boroughLambeth,2.5082,1.0449,2.4005,0.0165
+boroughLewisham,-4.1353,1.1152,-3.7081,2e-4
+boroughSouthwark,-1.5243,1.0604,-1.4374,0.1508
+boroughTower Hamlets,-4.7517,1.1088,-4.2852,0
+boroughWandsworth,-3.6965,1.0572,-3.4967,5e-4
+boroughWestminster,0.1255,1.1263,0.1114,0.9113
+imd_score:population_density,0,0,2.0199,0.0435
+imd_score:ptal_score,-0.0269,0.0145,-1.8485,0.0647

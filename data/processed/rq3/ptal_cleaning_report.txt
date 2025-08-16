@@ -1,0 +1,26 @@
+PTAL Data Cleaning Report
+=========================
+Generated: 2025-08-10 22:21:50.649429 
+
+$total_lsoas
+[1] 1731
+
+$measured
+[1] 1633
+
+$imputed
+[1] 98
+
+$coverage_pct
+[1] 94.3
+
+$mean_ptal
+[1] 4
+
+$median_ptal
+[1] 4
+
+$correlation_with_imd
+  cor 
+0.033 
+

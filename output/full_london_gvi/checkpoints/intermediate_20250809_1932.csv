@@ -1,0 +1,2 @@
+lsoa_code,n_images,mean_gvi,median_gvi,std_gvi,min_gvi,max_gvi,q25_gvi,q75_gvi,processing_time,timestamp,borough,imd_score,imd_quintile
+E01001583,100,15.6795654296875,12.335205078125,13.805647850036621,0.0,60.015869140625,5.02166748046875,24.2279052734375,22.778995752334595,2025-08-09T19:32:45.304601,Greenwich,13.467,Q1_Least

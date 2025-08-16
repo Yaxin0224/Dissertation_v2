@@ -1,0 +1,2 @@
+lsoa_code,n_images,mean_gvi,median_gvi,std_gvi,min_gvi,max_gvi,q25_gvi,q75_gvi,processing_time,timestamp,borough,imd_score,imd_quintile
+E01003039,100,26.231689453125,7.4554443359375,30.687118530273438,0.0,97.821044921875,0.37841796875,47.48992919921875,19.877554893493652,2025-08-09T19:55:37.425815,Lambeth,10.643,Q1_Least

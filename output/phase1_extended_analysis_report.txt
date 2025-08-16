@@ -1,0 +1,52 @@
+City Look Dissertation - Phase 1 扩展分析报告
+生成时间: 2025-08-04 16:53:57.375047
+=====================================
+
+1. 主要发现
+------------
+- 线性相关性: r = -0.194 (p = 0.413)
+- GAM模型解释度: R² = -0.016
+- 最佳聚类数: k = 2
+- Borough ICC: 3.3%
+
+2. 非线性关系
+------------
+- GAM显示IMD与GVI之间存在不显著的非线性关系 (p = 0.413)
+- 多项式回归未显示明显改善
+- 分位数回归显示不同GVI水平的IMD效应存在差异
+
+3. 空间模式
+------------
+- Borough间差异明显，最高与最低相差25.1%
+- 混合效应模型显示Borough解释了3.3%的变异
+- 最高GVI的Borough: Lewisham (35.2%)
+- 最低GVI的Borough: Hackney (10.1%)
+
+4. 异常值
+------------
+发现1个异常值LSOA:
+  - E01003134 ( Lambeth ): 46.6 %
+
+5. 聚类分析结果
+----------------
+识别出2个LSOA类型，具有不同的GVI-IMD模式
+# A tibble: 2 × 6
+  cluster     n mean_gvi mean_imd sd_gvi boroughs                                                    
+    <int> <int>    <dbl>    <dbl>  <dbl> <chr>                                                       
+1       1    14     13.7     27.8   11.5 Camden; Islington; Hackney; Wandsworth; Greenwich; Lambeth;…
+2       2     6     32.8     19.3   17.8 Southwark; Wandsworth; Lambeth; Lewisham; Tower Hamlets; Ke…
+
+6. 稳健性检验
+-------------
+- Bootstrap分析确认IMD系数不显著
+- 95% CI包含0: [-0.536, 0.146]
+
+7. Phase 2建议优先级
+-------------------
+基于Phase 1分析，建议Phase 2优先收集以下方面的历史数据:
+1. Borough规划政策差异（解释3.3%变异）
+2. 异常值LSOA的历史发展（特别是E01003134）
+3. 高/低GVI聚类区域的形成过程
+4. Borough间差异的历史根源（Lewisham vs Hackney）
+5. 1960s-1980s住房政策对当前绿化的
+

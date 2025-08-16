@@ -1,0 +1,39 @@
+Population Density Data Cleaning Report
+=======================================
+Generated: 2025-08-10 21:45:03.912998 
+
+$total_lsoas
+[1] 1731
+
+$lsoas_with_data
+[1] 0
+
+$lsoas_imputed
+[1] 1731
+
+$coverage_pct
+[1] 0
+
+$density_stats
+$density_stats$mean
+[1] NaN
+
+$density_stats$median
+[1] NA
+
+$density_stats$sd
+[1] NA
+
+$density_stats$min
+[1] Inf
+
+$density_stats$max
+[1] -Inf
+
+
+$density_categories
+# A tibble: 1 × 3
+  density_category     n percentage
+  <chr>            <int>      <dbl>
+1 Very High         1731        100
+

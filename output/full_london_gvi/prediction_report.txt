@@ -1,0 +1,38 @@
+======================================================================
+Inner London LSOA GVI Prediction Report
+======================================================================
+
+[Overall]
+Total LSOAs: 1731
+Measured: 1660 (95.9%)
+Predicted: 71 (4.1%)
+
+[GVI Stats]
+Overall mean GVI: 16.59% ± 10.34%
+Measured mean GVI: 16.60%
+Predicted mean GVI: 16.30%
+
+[By Borough]
+                        Mean GVI  LSOAs  Predicted
+borough                                           
+Camden                     17.75    133          0
+Greenwich                  15.60    151          1
+Hackney                    15.78    144          4
+Hammersmith and Fulham     12.91    113         15
+Islington                  15.85    123          1
+Kensington and Chelsea     12.88    103          1
+Lambeth                    21.86    178          3
+Lewisham                   19.51    169          9
+Southwark                  17.69    166          9
+Tower Hamlets              12.00    144          0
+Wandsworth                 17.82    179         23
+Westminster                15.23    128          5
+
+[By IMD Quintile]
+              Mean GVI  LSOAs  Predicted
+imd_quintile                            
+Q1_Least         17.86    338         15
+Q2               17.70    344         19
+Q3               16.04    348         16
+Q4               15.22    348          9
+Q5_Most          16.19    353         12

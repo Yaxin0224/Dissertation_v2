@@ -1,0 +1,2 @@
+lsoa_code,n_images,mean_gvi,median_gvi,std_gvi,min_gvi,max_gvi,q25_gvi,q75_gvi,processing_time,timestamp,borough,imd_score,imd_quintile
+E01000883,80,11.014022827148438,0.6011962890625,17.364553451538086,0.0,71.478271484375,0.0,16.32080078125,13.70727252960205,2025-08-09T20:42:57.049510,Camden,9.536,Q1_Least

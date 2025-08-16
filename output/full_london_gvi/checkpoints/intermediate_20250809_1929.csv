@@ -1,0 +1,2 @@
+lsoa_code,n_images,mean_gvi,median_gvi,std_gvi,min_gvi,max_gvi,q25_gvi,q75_gvi,processing_time,timestamp,borough,imd_score,imd_quintile
+E01004639,100,16.1201171875,15.692138671875,9.250423431396484,1.13525390625,49.139404296875,9.35211181640625,21.7193603515625,20.673843145370483,2025-08-09T19:29:06.286659,Wandsworth,10.4,Q1_Least

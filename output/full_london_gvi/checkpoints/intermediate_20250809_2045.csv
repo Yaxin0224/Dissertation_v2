@@ -1,0 +1,2 @@
+lsoa_code,n_images,mean_gvi,median_gvi,std_gvi,min_gvi,max_gvi,q25_gvi,q75_gvi,processing_time,timestamp,borough,imd_score,imd_quintile
+E01003202,80,15.706024169921875,18.2403564453125,11.997475624084473,0.0,39.29443359375,2.63214111328125,26.02386474609375,16.002788066864014,2025-08-09T20:45:04.259458,Lewisham,9.192,Q1_Least

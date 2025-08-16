@@ -1,0 +1,2 @@
+lsoa_code,n_images,mean_gvi,median_gvi,std_gvi,min_gvi,max_gvi,q25_gvi,q75_gvi,processing_time,timestamp,borough,imd_score,imd_quintile
+E01001851,100,15.8787841796875,16.2078857421875,9.686253547668457,0.067138671875,37.298583984375,8.1756591796875,23.6724853515625,20.42322564125061,2025-08-09T20:00:50.254121,Hammersmith and Fulham,13.267,Q1_Least

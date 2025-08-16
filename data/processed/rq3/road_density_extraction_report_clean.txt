@@ -1,0 +1,17 @@
+Road Density Finalization Report
+==================================================
+Generated: 2025-08-11 00:51:02.915475
+
+Total LSOAs: 1731
+Successful: 1729
+Failed/Imputed/Other: 2
+
+Summary (road_density_km_per_sqkm):
+count    1729.000000
+mean       15.870737
+std         8.698902
+min         0.050785
+25%         9.243941
+50%        14.991688
+75%        21.388743
+max        78.667844
